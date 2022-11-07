@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    align-items: center;
+    background-color: darkgreen;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    
+}
+button#dlt{
+
+    background-color:rgb(216, 31, 31);
+    margin-left: 10px;
+    margin-bottom: 5px;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.container {
+    width: 3s50px;
+    padding: 15px;
+    background-color: darkkhaki;
+    justify-content: center;
+    border-radius: 10px;
+    text-align: left;
+  
+}
+
+#add{
+    margin-left: 3px;
+    font-weight: 500;
+    background-color: rgb(13, 14, 12);
+    color: white;
+}
+
+#title{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
